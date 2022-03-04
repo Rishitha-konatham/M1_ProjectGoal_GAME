@@ -1,0 +1,15 @@
+/**
+ * @file view.h
+ * @author rishithakonatham
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-15
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+#ifndef __VIEw_H
+#define __VIEW_H
+int entertheno();
+int Project();
+#endif
